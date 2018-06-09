@@ -1,0 +1,19 @@
+/**********
+Basic CSS file that will take  care of all the styling in the popup page
+
+*********/
+*{
+    font-family: 'Open Sans', sans-serif;
+}
+.textcen{
+    text-align: center;
+}
+footer{
+    font-weight: bold;
+}
+.sytledhr{
+    width: 50%;
+    border: none;
+    height: 1px;
+    background-color: black;
+}
